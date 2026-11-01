@@ -1,56 +1,115 @@
-# FolderDesk — Your desktop, organized by project
+# FolderDesk — Un bureau pour chaque projet
 
-**A lightweight Windows application by GA Software.**
+**Organisez votre bureau Windows autrement, avec GA Software.**
 
-Tired of a cluttered Windows desktop? FolderDesk lets you create a separate workspace for each project, keeping your files, folders, and applications organized.
+🇫🇷 **Français** | 🇬🇧 [English version](#english-version)
+
+---
+
+## 🇫🇷 Présentation
+
+Votre bureau Windows est encombré de fichiers, de dossiers et de raccourcis ?
+
+**FolderDesk** est un logiciel Windows qui permet de créer un espace de travail indépendant pour chacun de vos projets.
+
+Sélectionnez simplement un dossier et ouvrez un bureau dédié, avec uniquement les fichiers et les applications dont vous avez besoin.
+
+Lorsque vous quittez FolderDesk, vous retrouvez votre bureau Windows habituel, sans modifier ni supprimer vos fichiers.
+
+### Un projet. Un bureau. Zéro désordre.
+
+## 📥 Télécharger FolderDesk
+
+**Version actuelle : 3.9.5 — Windows 10/11**
+
+**[Télécharger FolderDesk sur le site officiel](https://gasoftware.duckdns.org/logiciels/folderdesk.html)**
+
+🎬 [Regarder la vidéo de présentation](https://gasoftware.duckdns.org/assets/folderdesk-presentation.mp4)
+
+## ✨ Fonctionnalités
+
+- **Bureaux par projet :** créez un espace de travail dédié à chaque dossier.
+- **Organisation des fichiers :** retrouvez vos dossiers et raccourcis dans un environnement familier.
+- **Bibliothèque d'applications :** recherchez vos logiciels installés et ajoutez leurs raccourcis.
+- **Glisser-déposer :** déplacez vos icônes et organisez votre espace de travail.
+- **Retour au bureau Windows :** quittez votre espace de projet et retrouvez votre bureau habituel.
+- **Léger et rapide :** aucune machine virtuelle nécessaire.
+
+## 🖥️ Captures d'écran
+
+### Gestionnaire de projets
+
+![Gestionnaire de projets FolderDesk](https://gasoftware.duckdns.org/assets/folderdesk-interface.jpg)
+
+### Bureau de projet
+
+![Bureau de projet FolderDesk](https://gasoftware.duckdns.org/assets/folderdesk-bureau.jpg)
+
+### Bibliothèque d'applications
+
+![Bibliothèque d'applications FolderDesk](https://gasoftware.duckdns.org/assets/folderdesk-applications.jpg)
+
+## 📩 Assistance
+
+Vous avez trouvé un bug ou souhaitez proposer une amélioration ?
+
+Utilisez l'onglet **Issues** sur GitHub ou contactez-nous :
+
+**contact.gasoftware@gmail.com**
+
+---
+
+# English version
+
+## FolderDesk — One desktop for every project
+
+**A lightweight Windows workspace organizer by GA Software.**
+
+Is your Windows desktop cluttered with files, folders, and shortcuts?
+
+FolderDesk lets you create a separate workspace for each project, linked to a folder on your computer.
+
+Access the files and applications you need in an organized environment. When you close FolderDesk, your regular Windows desktop remains unchanged.
 
 **One project. One desktop. Zero clutter.**
 
-## Download FolderDesk
+## 📥 Download FolderDesk
 
-**Latest version: 3.9.5 — Windows 10/11**
+**Current version: 3.9.5 — Windows 10/11**
 
-[Download FolderDesk — Official website](https://gasoftware.duckdns.org/logiciels/folderdesk.html)
+[Download FolderDesk — Official website](https://gasoftware.duckdns.org/en/logiciels/folderdesk.html)
 
 [Watch the video demonstration](https://gasoftware.duckdns.org/assets/folderdesk-presentation.mp4)
 
-## Features
+## ✨ Features
 
-- **Project-based desktops:** Open a dedicated workspace linked to a project folder.
-- **Organize files and folders:** Work with familiar Windows-style desktop icons.
-- **Application shortcuts:** Search installed applications and add shortcuts to your project desktop.
-- **Drag and drop:** Organize desktop icons and project files intuitively.
-- **Return to your normal desktop:** Close your project workspace and return to your usual Windows environment.
-- **Lightweight:** No virtual machine required.
+- **Project-based desktops:** create a dedicated workspace for each project.
+- **File organization:** manage folders, files, and shortcuts.
+- **Application library:** find installed programs and add shortcuts to your workspace.
+- **Drag and drop:** move and organize desktop icons.
+- **Return to Windows:** close FolderDesk and return to your regular desktop.
+- **Lightweight:** no virtual machine required.
 
-## Screenshots
+## 🖥️ Screenshots
 
-### Project manager
+The screenshots above show the real FolderDesk interface.
 
-![FolderDesk project manager](https://gasoftware.duckdns.org/assets/folderdesk-interface.jpg)
+## 📩 Support
 
-### Dedicated project desktop
+Found a bug or have a suggestion?
 
-![FolderDesk desktop](https://gasoftware.duckdns.org/assets/folderdesk-bureau.jpg)
+Open a GitHub Issue or contact **contact.gasoftware@gmail.com**.
 
-### Application library
+---
 
-![FolderDesk application library](https://gasoftware.duckdns.org/assets/folderdesk-applications.jpg)
+## License / Licence
 
-## Français
+**FolderDesk est un logiciel propriétaire développé par GA Software.**
 
-**FolderDesk** est un logiciel Windows permettant de créer un bureau de travail indépendant pour chaque projet.
+Le fait de rendre ce dépôt public ne signifie pas que le code source est librement réutilisable ou redistribuable. L'utilisation du logiciel reste soumise à ses conditions de licence.
 
-Sélectionnez un dossier, ouvrez votre espace de travail, organisez vos fichiers et ajoutez vos applications favorites. Lorsque vous quittez FolderDesk, vous retrouvez votre bureau Windows habituel.
+**FolderDesk is proprietary software developed by GA Software.**
 
-**Un projet. Un bureau. Zéro désordre.**
+This public repository does not grant permission to copy, modify, or redistribute the software or its source code. Use of the software is subject to its applicable license terms.
 
-[Télécharger FolderDesk](https://gasoftware.duckdns.org/logiciels/folderdesk.html)
-
-## Feedback and support
-
-Found a bug or have an idea? Open a GitHub Issue or contact us at **contact.gasoftware@gmail.com**.
-
-## License
-
-FolderDesk is proprietary software developed by GA Software. Public availability of this repository does not grant permission to copy, modify, or redistribute the software or its source code. Refer to the software's applicable license terms.
+© 2026 Geoffrey Asztalos — GA Software. Tous droits réservés / All rights reserved.
